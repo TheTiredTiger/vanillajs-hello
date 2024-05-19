@@ -17,7 +17,7 @@ function excuseGenerator() {
     "crushed",
     "exploded",
     "devoured",
-    "yeeted"
+    "yeeted",
   ];
   let what = [
     "my spellbook",
@@ -25,7 +25,8 @@ function excuseGenerator() {
     "my broom",
     "my dignity",
     "the last cookie in the jar",
-    "my one remaining kidney"
+    "my one remaining kidney",
+    "a little girl's balloon"
   ];
   let when = [
     "before class.",
