@@ -11,7 +11,7 @@ let adj = [
   "inconspicuous"
 ];
 let noun = ["jogger", "racoon", "wizard", "beluga", "ostrich", "dentist"];
-let extension = [".com", ".net", ".io", ".pt", ".co.uk"];
+let extension = [".com", ".net", ".io", ".pt", ".co.uk", ".org"];
 
 function domainGenerator(arr1, arr2, arr3, arr4) {
   let domains = [];
